@@ -22,6 +22,8 @@ EXCHANGE
 
 https://yobit.net/
 
+https://erex.io/
+
 POOL LIST
 ----------------
 
