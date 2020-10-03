@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[icash.tx]
+file_filter = src/qt/locale/icash_<lang>.ts
+source_file = src/qt/locale/icash_en.ts
+source_lang = en
+type = QT
