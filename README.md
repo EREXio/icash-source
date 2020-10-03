@@ -17,6 +17,11 @@ https://openchains.info/coin/icash
 
 http://185.219.81.35:3001
 
+EXCHANGE
+----------------
+
+https://yobit.net/
+
 POOL LIST
 ----------------
 
