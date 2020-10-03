@@ -1,11 +1,27 @@
-iCash Core staging tree 0.11
+iCash Core
 ===============================
 
-http://www.icashpay.io
+ORIGINAL GITHUB : https://github.com/cryptodev35/icash
 
-Copyright (c) 2009-2015 Bitcoin Core Developers
+This repo has been updated.
 
-Copyright (c) 2014-2015 iCash Core Developers
+WEBSITE
+----------------
+
+https://icash.bittogether.com/
+
+EXPLORER
+----------------
+
+https://openchains.info/coin/icash
+
+http://185.219.81.35:3001
+
+POOL LIST
+----------------
+
+https://miningpoolstats.stream/icash
+
 
 
 What is iCash?
@@ -81,3 +97,7 @@ iCash Core is a multithreaded application, and deadlocks or other multithreading
 can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
 CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of what locks
 are held, and adds warning to the debug.log file if inconsistencies are detected.
+
+
+
+Copyright (c) 2009-2020 Bitcoin Core Developers
